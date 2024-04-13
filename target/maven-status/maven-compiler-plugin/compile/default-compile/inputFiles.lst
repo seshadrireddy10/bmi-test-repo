@@ -1,0 +1,6 @@
+/root/13.04.2024/bmi/src/main/java/com/tericcabrel/bmi/BmiApplication.java
+/root/13.04.2024/bmi/src/main/java/com/tericcabrel/bmi/configs/WebConfig.java
+/root/13.04.2024/bmi/src/main/java/com/tericcabrel/bmi/controllers/IndexController.java
+/root/13.04.2024/bmi/src/main/java/com/tericcabrel/bmi/dtos/UserInfoDto.java
+/root/13.04.2024/bmi/src/main/java/com/tericcabrel/bmi/dtos/ResultDto.java
+/root/13.04.2024/bmi/src/main/java/com/tericcabrel/bmi/utils/Constants.java
