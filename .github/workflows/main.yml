@@ -48,8 +48,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag reddyp/gitub-action:$(date +%s)
+      run: docker build -t . --file Dockerfile --tag reddyp/gitub-action
     - name: docker login 
       run: docker login -u reddyp -p reddyp
     - name: push images
-      run: docker push reddyp/gitub-action:$(date +%s)
+      run: docker push reddyp/gitub-action 
